@@ -36,8 +36,7 @@ class ViewController: UIViewController {
         
 //        groupAnimation()
         
-//        emitterAnimate1()
-        emitterAnimate3()
+        emitterAnimate1()
         // Do any additional setup after loading the view, typically from a nib.
     }
     
